@@ -1,0 +1,21 @@
+body {
+  background-color: #0f1123;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 0 5vh;
+  padding: 0 2.5vh;
+  height: 100%;
+}
+
+.text-box {
+  font-family: roboto, monospace;
+  margin: 20px auto;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: #a6f0c6;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGVzLnNjc3MiLCJzdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UseUJBQXlCO0VBQ3pCLGFBQWE7QUNDZjs7QURFQTtFQUNFLGFBQWE7RUFDYix1QkFBdUI7RUFDdkIsYUFBYTtFQUNiLGdCQUFnQjtFQUNoQixZQUFZO0FDQ2Q7O0FERUE7RUFDRSw4QkFBOEI7RUFDOUIsaUJBQWlCO0VBQ2pCLGVBQWU7RUFDZixtQkFBbUI7RUFDbkIsY0FBYztBQ0NoQiIsImZpbGUiOiJzdHlsZXMuY3NzIn0= */
