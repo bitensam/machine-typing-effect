@@ -18,3 +18,12 @@ body {
   letter-spacing: 1px;
   color: #a6f0c6;
 }
+
+.cursor {
+  color: #a6f0c6;
+  opacity: 0;
+  transition: 0.2s;
+  &.active {
+    opacity: 1;
+  }
+}
